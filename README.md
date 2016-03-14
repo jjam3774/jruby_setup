@@ -1,4 +1,4 @@
 # jruby_base
 
-TODO: Enter the cookbook description here.
+A cookbook that wil setup jruby and tomcat on system....
 
